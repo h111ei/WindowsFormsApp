@@ -33,9 +33,9 @@ namespace WindowsFormsApp3
             int N = int.Parse(textBox1.Text);
             int K = int.Parse(textBox2.Text);
 
-            double min = 99999999;
+            double min = 9999999;
             double max = -1;
-            double k = 0;
+            double k = 5;
 
 
 
